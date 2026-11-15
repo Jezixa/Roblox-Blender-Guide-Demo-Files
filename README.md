@@ -1,6 +1,5 @@
 # Roblox-Blender-Guide-Demo-Files
-Free use resources/files from my Roblox Blender Beginner Guide video! 
-All files here are free to use for personal and study purposes ONLY.
+Free use resources/files from my Roblox Blender Beginner Guide video! All files here are free to use for personal and study purposes ONLY. You are however, peritted to sell emotes and animation packs you create with the R15 rigs here, given the animations were made by you.
 
 In here you'll find:
 
